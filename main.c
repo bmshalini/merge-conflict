@@ -5,8 +5,8 @@ Initial Function()
   //Sample  changed file
 }
 
+<<<<<<< HEAD
 Initial Security()
-{
  //Sample Code
 }
 
@@ -14,6 +14,13 @@ feaature2()
 {
  //edited Sample Code for Feature 2
 }
+=======
+feature1()
+{
+  //Sampldfdfde Code for Feature 1
+}
+
+>>>>>>> feature1
 
 
 }
